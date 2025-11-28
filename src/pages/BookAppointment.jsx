@@ -99,7 +99,7 @@ const BookAppointment = () => {
                        </div>
                        <div>
                           <p className="text-xs text-text-secondary uppercase tracking-wider font-semibold mb-1">Booking ID</p>
-                          <p className="text-lg font-bold text-primary font-mono">#APT-2024-{Math.floor(Math.random() * 1000)}</p>
+                          <p className="text-lg font-bold text-primary font-mono">#APT-2024-842</p>
                        </div>
                        <div>
                           <p className="text-xs text-text-secondary uppercase tracking-wider font-semibold mb-1">Date & Time</p>
